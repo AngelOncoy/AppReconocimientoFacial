@@ -1,6 +1,6 @@
 // /services/api.js
 
-const BASE_URL = 'http://TU_IP_LOCAL_O_PUBLICA:8000/api';
+const BASE_URL = 'https://app-rf-3-service-1059485850117.europe-west1.run.app/api';
 // Ejemplo en local con Android Studio: 'http://10.0.2.2:8000/api'
 // Ejemplo en Expo Go en red local: 'http://192.168.x.x:8000/api' (ip de tu pc)
 
